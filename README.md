@@ -69,8 +69,8 @@
 
 #### 6주차: 탐색 (이진/이분)
 |**분류**|**문제1**|**문제2**|**문제3**|**진행현황**|
-|:---|:---|:---|:---|:---|:---:|
+|:---|:---|:---|:---|:---:|
 |이진/이분 탐색|[문제1](https://www.acmicpc.net/problem/2792)|[문제2](https://www.acmicpc.net/problem/2343)|[문제3](https://www.acmicpc.net/problem/11687)|`시작 전`|
-| |[문제4](https://www.acmicpc.net/problem/14426)|[문제5](https://www.acmicpc.net/problem/2512)|[문제6](https://www.acmicpc.net/problem/7795)|||`시작 전`|
-|그리디|[문제1](https://www.acmicpc.net/problem/5585)|[문제2](ttps://www.acmicpc.net/problem/2864)|[문제3](https://www.acmicpc.net/problem/10162)|`시작 전`|
-| |문제4](https://www.acmicpc.net/problem/11497)|[문제5](https://www.acmicpc.net/problem/1541)|[문제6](https://www.acmicpc.net/problem/20115)||`시작 전`|
+| |[문제4](https://www.acmicpc.net/problem/14426)|[문제5](https://www.acmicpc.net/problem/2512)|[문제6](https://www.acmicpc.net/problem/7795)|`시작 전`|
+|그리디|[문제1](https://www.acmicpc.net/problem/5585)|[문제2](https://www.acmicpc.net/problem/2864)|[문제3](https://www.acmicpc.net/problem/10162)|`시작 전`|
+| |[문제4](https://www.acmicpc.net/problem/11497)|[문제5](https://www.acmicpc.net/problem/1541)|[문제6](https://www.acmicpc.net/problem/20115)|`시작 전`|
