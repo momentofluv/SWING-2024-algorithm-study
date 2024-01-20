@@ -9,3 +9,6 @@ for i in range(len(number)-1, -1, -1): #[::-1]도 동일
     answer += num_list.index(number[i]) * (b**i)
 
 print(answer)
+
+# number, b = input().split()
+# print(int(number, int(b)))
