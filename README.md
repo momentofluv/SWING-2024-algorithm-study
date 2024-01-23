@@ -37,7 +37,7 @@
 |**분류**|**문제1**|**문제2**|**문제3**|**문제4**|**진행현황**|
 |:---|:---|:---|:---|:---|:---:|
 |스택|[문제1](https://www.acmicpc.net/problem/17608)|[문제2](https://www.acmicpc.net/problem/2841)|[문제3](https://www.acmicpc.net/problem/4889)|[문제4](https://www.acmicpc.net/problem/17413)|`시작 전`|
-|해시|[문제1](https://www.acmicpc.net/problem/15829)|[문제2](https://school.programmers.co.kr/learn/courses/30/parts/12077)|||`시작 전`|
+|해시|[문제1](https://www.acmicpc.net/problem/15829)|[문제2](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|||`시작 전`|
 |큐|[문제1](https://www.acmicpc.net/problem/28066)|[문제2](https://www.acmicpc.net/problem/1966)|||`시작 전`|
 |덱|[문제](https://www.acmicpc.net/problem/15565)|[문제2](https://www.acmicpc.net/problem/10025)|[문제3](https://www.acmicpc.net/problem/2346)|[문제4](https://www.acmicpc.net/problem/13417)|`시작 전`|
 
